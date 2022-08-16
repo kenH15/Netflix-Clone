@@ -2,6 +2,8 @@
 # Netflix-Clone
 A front end clone project of Netflix using React.
 =======
+Demo:https://kenh15.github.io/Netflix-Clone/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
